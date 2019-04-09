@@ -1,4 +1,4 @@
-### JAVA Hello World Example
+## JAVA Hello World Example
 ```java
 class Hello{
   public static void main(String args[]){
